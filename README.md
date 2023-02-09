@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site at Netlify](nft-preview-card-kw.netlify.app)
+- Live Site URL: [Live Site at Netlify](https://nft-preview-card-kw.netlify.app)
 
 ## My process
 
